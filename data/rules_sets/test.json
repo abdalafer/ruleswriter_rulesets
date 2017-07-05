@@ -1,0 +1,1 @@
+{"name":"test","desc":"","enabled":false,"params":[],"dev_options":null,"rule_groups":[{"rules":[{"desc":"We need the tranids as strings with the OID mappings. Use JS to perform that function.","type":"mapreduce","script_options":{"collection":"temp_db"},"scripts":["{}","function() {}","function(key, value) {}"]}]}]}
