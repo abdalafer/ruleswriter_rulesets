@@ -8,7 +8,7 @@
     {
       "rules": [
         {
-          "desc": "We needeeeeeeeeeeeeeed the tranids as strings with the OID mappings. Use JS to perform that functions.",
+          "desc": "We master_data_ruleset1 the tranids as strings with the OID mappings. Use JS to perform that functions.",
           "type": "mapreduce",
           "script_options": {
             "collection": "temp_db"
