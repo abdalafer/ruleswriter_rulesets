@@ -8,7 +8,7 @@
     {
       "rules": [
         {
-          "desc": "dala branch need the tranids as strings with the OID mappings. Use JS to perform that functions.",
+          "desc": "dala gitest1 need the tranids as strings with the OID mappings. Use JS to perform that functions.",
           "type": "mapreduce",
           "script_options": {
             "collection": "temp_db"
