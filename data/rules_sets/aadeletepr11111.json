@@ -1,8 +1,12 @@
 {
   "name": "aadeletepr11111",
-  "desc": "",
+  "desc": "descccccc",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
