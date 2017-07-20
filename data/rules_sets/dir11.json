@@ -1,8 +1,12 @@
 {
   "name": "dir11",
-  "desc": "",
+  "desc": "d",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
