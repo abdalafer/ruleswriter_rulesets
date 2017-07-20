@@ -1,8 +1,12 @@
 {
   "name": "nebr2slash2",
-  "desc": "",
+  "desc": "descip",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
