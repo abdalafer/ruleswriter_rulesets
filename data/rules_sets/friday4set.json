@@ -1,8 +1,12 @@
 {
   "name": "friday4set",
-  "desc": "",
+  "desc": "asdfasdf",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
