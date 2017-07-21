@@ -1,8 +1,12 @@
 {
   "name": "firdaym3set",
-  "desc": "",
+  "desc": "asdfasdffirdaym3",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
