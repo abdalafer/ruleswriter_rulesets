@@ -1,8 +1,12 @@
 {
   "name": "fridaym2rs2",
-  "desc": "",
+  "desc": "sdfasdfasdf",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
