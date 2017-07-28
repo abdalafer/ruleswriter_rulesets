@@ -1,8 +1,12 @@
 {
   "name": "dbbranch1rs1",
-  "desc": "",
+  "desc": "dbbranch1dbbranch1dbbranch1dbbranch1dbbranch1",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
