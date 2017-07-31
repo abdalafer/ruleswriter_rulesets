@@ -1,8 +1,12 @@
 {
   "name": "mdbbranch2rs1",
-  "desc": "",
+  "desc": "mdbbranch2descc",
   "enabled": false,
-  "params": null,
+  "params": [],
   "dev_options": null,
-  "rule_groups": null
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
 }
