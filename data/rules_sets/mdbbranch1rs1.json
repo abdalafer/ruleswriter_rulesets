@@ -1,0 +1,12 @@
+{
+  "name": "mdbbranch1rs1",
+  "desc": "mdbbranch1rs1",
+  "enabled": false,
+  "params": [],
+  "dev_options": null,
+  "rule_groups": [
+    {
+      "rules": []
+    }
+  ]
+}
